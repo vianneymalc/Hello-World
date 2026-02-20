@@ -1,0 +1,5 @@
+ctgov_all/
+*.zip
+*.csv
+__pycache__/
+*.pyc
